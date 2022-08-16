@@ -19,9 +19,9 @@ It took me 6 to 7 hours to complete this project.
 
 **Note :** This project is not optimized for mobile yet.
 
-**[Live Project's netlify link](https://street-style-landing-page-project-01.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://product-design-project-15.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./image/completed-project-15.png)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Project ScreenShot](./image/completed-project-15.png)](https://product-design-project-15.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__15-Product%20Design%20LandingPage-yellow)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__15-Product%20Design%20LandingPage-yellow)](https://product-design-project-15.netlify.app/ "Project link")
